@@ -1,0 +1,4 @@
+**/.dart_tool
+**/built_value_*
+**/pubspec.lock
+sandbox/pubspec.yaml
